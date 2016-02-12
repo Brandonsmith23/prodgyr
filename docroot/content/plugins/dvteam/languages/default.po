@@ -1,0 +1,1031 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Activate Body Scroll Effect"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Activate Social Icons"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Active filter color"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Add Another Icon"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Add new category"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Add new member"
+msgstr ""
+
+#. Text in echo
+#: dvteam/ourteam-filter.php:15
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:380
+msgid "All Categories"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:107
+msgid "Autoplay duration (second):"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:100
+msgid "Autoplay:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Bold Titles"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Border Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Carousel Arrow Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Carousel Left Arrow (24x24 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Carousel Right Arrow (24x24 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:481
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Close Panel Icon (24x24 px)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:69
+msgid "Columns:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Contact Form 7 Color 1"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Contact Form 7 Color 2"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Contact Form 7 Color 3"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Correct link format; http://www.themeforest.net"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Custom Icon:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Custom Scrollbar Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Member"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Member Widget."
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1 dvteam/dvteam_widgets.php:399
+msgid "DV Team"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team (Filterable)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team Carousel"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team Carousel Widget."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136 dvteam/dvteam.php:774
+msgid "DV Team Settings"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team Thumbnails"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team Thumbnails Widget."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "DV Team Widget."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:936
+msgid "DV-Team Rectangle"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:936
+msgid "DV-Team Square"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #212121"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #313131"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #414141"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #c7c7c7"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #eb5656"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #f5f1f0"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #ffffff"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Default color is #ffffff (h1,h2,h3,h4,h5,h6)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Disable Thumbnail Text Effect"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Disable Thumbnail Zoom Effect"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Divider Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Divider Height"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Divider Height (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Edit member"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam_widgets.php:399
+msgid "Filterable DV Team Widget."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Font color"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:463
+msgid "Full"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Google"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Grid"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Grid Filter Menu"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:461
+msgid "Grid Style:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H1 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H1 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H2 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H2 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H3 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H3 Title (and dvcv shortcode title) Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H4 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H4 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H5 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H5 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H6 (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "H6 Title (and dvcv shortcode subtitle) Font Size (px)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:776
+msgid "Help Documentation"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Icon {#}"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Image: "
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Info Icon Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Inner Spacing"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "It may not work properly on some themes."
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:777
+msgid "Knowledge Base"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:480
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Main Title Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Main Title Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Main Title Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Main Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Max. Width of the panel (px)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:65
+msgid "Maximum number of members:"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:457
+msgid "Maximum number of team member:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Member"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Member Shortcode"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Menu Item Horizontal Spacing"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Menu Item Vertical Spacing"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Menu item right-left spacing (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Menu item top-bottom spacing (px)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:473
+msgid "Min. Item Width (px):"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Mouseover color"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "New category"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "New member"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "No member found"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "No member found in trash"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:469
+msgid "Offset (px):"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Outer Spacing"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Overlay Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Overlay Opacity"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Panel"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Panel Background Color"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:477
+msgid "Panel Side:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Panel Subtitle Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Panel Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Panel Width"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Paragraphs and other texts font size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Parent members:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Percent Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Percent Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Percent Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Post Format: Gallery"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Post Format: Image"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Post Format: Link"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Post Format: Quote"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Post Format: Video"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Quotation Marks (quote post format) Size (em)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Quote Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Quote Text (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Quote text (quote post format) Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Quote: "
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Quotes (em)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:465
+msgid "Rectangle"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Remove Icon"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Remove Info Icon"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:926
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:479
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:914
+msgid "Save Changes"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Search members"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:378
+msgid "Select Category:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Select Icon:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Select Images:"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:285
+msgid "Select Member:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Select an icon or upload your own icon"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:766
+msgid "Settings reset"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:761
+msgid "Settings saved"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Show all categories"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:115
+msgid "Side:"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Bar Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Bar Border Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Bar Border Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skill Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Skills"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Slider Left Arrow (16x30 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Slider Right Arrow (16x30 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Small Thumbnail Info Icon (24x24 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Social Bar Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Social Icons (Optional)"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:111
+msgid "Spacing (px):"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:464
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Subtitle Background Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Subtitle Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Subtitle Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Subtitle Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Text Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "The distance between content and main container (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "The distance between filter menu and members (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "The distance between title and content (px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Info Icon (32x32 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Opacity"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Opacity (onMouseOver)"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Overlay Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Subtitle Bg Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Subtitle Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Subtitle Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Title Bg Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Title Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Thumbnail Title Font Size"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Title Color"
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "Title bottom margin"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam_widgets.php:453
+msgid "Title:"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "To activate social icons, check this box."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "To disable thumbnail text effect (onMouseOver), check this box."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "To disable thumbnail zoom effect (onMouseOver), check this box."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "To make bold titles, check this box."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "To remove info icon, check this box."
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "URL: "
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:869
+msgid "Upload"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Upload an image or enter an URL"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Upload your own icon (24x24 px)"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Video code: "
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "View member"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "Vimeo"
+msgstr ""
+
+#. Text in echo
+#: dvteam/dvteam.php:778
+msgid "Visit Support"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "You Tube"
+msgstr ""
+
+#. Text in function
+#: dvteam/ourteam_cpt.php:1
+msgid "You can make a multiselection with CTRL + click."
+msgstr ""
+
+#. Text in function
+#: dvteam/dvteam.php:136
+msgid "You can use this field to add your own css codes"
+msgstr ""

@@ -1,0 +1,36 @@
+.dvteamgrid .dv-member-desc {
+    right: 0px;
+    left: inherit;
+}
+.close-dv-panel-bt {
+    left: 20px;
+    right: inherit;    
+}
+.dvskillbar-title {
+	right:0;
+    left: inherit;
+}
+.dvskill-bar-percent {
+	left:10px;
+    right: inherit;
+}
+.dv-panel-left {
+    right: 0px;
+    left: inherit;
+}
+.dv-panel-right {
+    padding-right: 40px;
+    padding-left: 0px;
+}
+.dvfilters li {
+    float: right;
+    margin: 0px 0px 1px 1px!important;
+}
+.dvteam-previous {
+    float:right;
+    text-align:right;
+}
+.dvteam-next {
+    float:left;
+    text-align:left;
+}
