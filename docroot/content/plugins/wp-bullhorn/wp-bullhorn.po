@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-bullhorn\n"
+"POT-Creation-Date: 2014-07-22 13:09-0500\n"
+"PO-Revision-Date: 2014-07-22 13:10-0500\n"
+"Last-Translator: Francis Yaconiello <francis@teamcolab.com>\n"
+"Language-Team: CO+LAB Multimedia, LLC <francis@teamcolab.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/francis/Sites/wordpress/wp-content/plugins/wp-"
+"bullhorn\n"
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:30
+msgid "Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:32
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:34
+msgid "Bullhorn Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:33
+msgid "Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:35
+msgid "Popular Bullhorn Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:36
+msgid "All Bullhorn Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:37
+msgid "Parent Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:38
+msgid "Edit Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:39
+msgid "Update Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:40
+msgid "Add New Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:41
+msgid "New Bullhorn Job Category"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:42
+msgid "Separate Bullhorn Job Categories with commas"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:43
+msgid "Add or remove Bullhorn Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/category.php:44
+msgid "Choose from most used Bullhorn Job Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:334
+msgid "JobOrders from the Bullhorn API"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:354
+msgid "Basic"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:360
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:855
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1096
+msgid "ID"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:363
+msgid "Bullhorn Id of this entity."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:375
+msgid "Title"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:378
+msgid "Job title."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:388
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:896
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1137
+msgid "Address"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:391
+msgid ""
+"Address of the hiring company; when the record is created in the Bullhorn "
+"application, this data is pulled from the client contact record."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:395
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:903
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1144
+msgid "Address 1"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:408
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:916
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1157
+msgid "Address 2"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:421
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:929
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1170
+msgid "City"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:434
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:942
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1183
+msgid "State"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:447
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:955
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1196
+msgid "Postal Code"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:460
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:968
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1209
+msgid "Country ID"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:473
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:981
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1222
+msgid "Country Name"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:492
+msgid "Status"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:495
+msgid ""
+"Current status of the Job Order. Examples: Accepting Candidates, Currently "
+"Interviewing, Covered, Offer Out, Placed"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:505
+msgid "Employment Type"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:508
+msgid ""
+"Type of employment offered: for example, contract, permanent, and so forth. "
+"Determines which of the five job types are used."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:518
+msgid "Date Added"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:521
+msgid "Date when this record was created in the Bullhorn system."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:531
+msgid "Date Closed"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:534
+msgid "Date when the job was marked as closed."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:544
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:550
+msgid "Description"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:553
+msgid "Text description of the job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:560
+msgid "Public Description"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:563
+msgid "Description of this job for use on public job boards."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:570
+msgid "Pay & Benefits"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:576
+msgid "Benefits"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:579
+msgid "Text description of benefits offered with this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:589
+msgid "Bonus Package"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:592
+msgid "Text description of the bonus package offered with this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:602
+msgid "Tax Status"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:605
+msgid "Tax Status, for example, 1099, W-2, and so forth."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:615
+msgid "Client Bill Rate"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:618
+msgid "Amount to be billed to the client for this job when it is filled."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:628
+msgid "Pay Rate"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:631
+msgid "Pay rate offered with this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:641
+msgid "Fee Arrangement"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:644
+msgid ""
+"Fee, expressed as a percentage, that will be paid by the ClientCorporation "
+"when the job is filled."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:654
+msgid "Degree List"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:657
+msgid "List of educational degrees required for this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:667
+msgid "Duration Weeks"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:670
+msgid "Expected duration the job. For a permanent position, this is null."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:680
+msgid "Education Degree"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:683
+msgid "Required degree for the job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:693
+msgid "Salary"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:696
+msgid "Salary offered for this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:706
+msgid "Salary Unit"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:709
+msgid "Salary unit represented by the range (for example, per hour, yearly)."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:719
+msgid "Additional Information"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:725
+msgid "Hours Per Week"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:728
+msgid "Number of hours per week that the employee will work."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:738
+msgid "On Site"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:741
+msgid "Location requirements; for example, on- site, off-site, no preference."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:751
+msgid "Published Zip"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:754
+msgid "Published Zip Code of the job location."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:764
+msgid "Skill List"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:767
+msgid "Comma-separated list of skills the applicants should have."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:776
+msgid "Source"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:779
+msgid "Source of the job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:789
+msgid "Start Date"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:803
+msgid "Travel Requirements"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:806
+msgid "Text description of the amount of travel required for this job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:816
+msgid "Years Required"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:819
+msgid "Number of years of experience required for the job."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:829
+msgid "Date End"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:832
+msgid "Date when the job will end (if applicable)."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:842
+msgid "People"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:848
+msgid "Response User"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:851
+msgid "CorporateUser to whom submissions should be sent."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:868
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1109
+msgid "External Email"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:871
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1112
+msgid "User's external non-Bullhorn email address. Used for forwarding"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:882
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1123
+msgid "Name"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:885
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1126
+msgid "Name of the CorporateUser."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1000
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1241
+msgid "Occupation"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1003
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1244
+msgid "Occupation of the CorporateUser."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1014
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1255
+msgid "Phone"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1027
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1268
+msgid "Mobile"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1040
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1281
+msgid "Custom Text 1"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1043
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1057
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1071
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1284
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1298
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1312
+msgid ""
+"Configurable text fields that can be used to store custom data depending on "
+"the needs of a particular deployment."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1054
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1295
+msgid "Custom Text 2"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1068
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1309
+msgid "Custom Text 3"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/joborder.php:1088
+msgid "Owner"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:42
+msgid "Plugin Licenses"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:62
+msgid "Base Plugin License Key"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:72
+msgid "Username"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:82
+msgid "Password"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:92
+msgid "Client ID"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:102
+msgid "Client Secret"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:112
+msgid "Where Clause for JobOrder Sync"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:122
+msgid "Where Clause for Category Sync"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:138
+msgid "Manage Licenses"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:147
+msgid "Manage Bullhorn API Credentials"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:156
+msgid "Plugin Options"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:191
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:192
+msgid "Categories"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:200
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:201
+msgid "Settings"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:259
+msgid "Please enter your Bullhorn API Credentials on the plugin settings page."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/includes/settings.php:271
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/templates/settings.php:5
+msgid "WP Bullhorn"
+msgstr ""
+
+#: /Users/francis/Sites/wordpress/wp-content/plugins/wp-bullhorn/templates/settings.php:6
+msgid "Thanks for choosing to use the WordPress Bullhorn Plugin."
+msgstr ""

@@ -1,0 +1,8 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">dvourteam</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="0">dvteamtaxonomy</taxonomy>
+    </taxonomies>
+</wpml-config>
