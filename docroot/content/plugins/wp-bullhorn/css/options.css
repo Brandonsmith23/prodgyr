@@ -1,0 +1,21 @@
+/*
+ * WP Bullhorn Options Page Styles
+ */
+
+.wpbullhorn-valid-license {
+    font-size: 24px;
+    line-height: 24px;
+    color: green;
+}
+
+.wpbullhorn-invalid-license {
+    font-size: 24px;
+    line-height: 24px;
+    color: red;
+}
+
+.wpbullhorn-validation-message {
+    font-weight: 900;
+    color: red;
+}
+

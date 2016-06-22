@@ -1,24 +1,35 @@
-##DO NOT USE THIS PLUGIN
-
-Bullhorn has announced an End Of Life for version 1.1 of the SOAP API. As of December 31, 2013 the SOAP 1.1 API will no longer continue to function.
-
-I have begun work on a REST version of this plugin that will be available in the next couple weeks.
-
-wp-bullhorn
-===========
+WP-Bullhorn-Rest
+================
 
 Bullhorn Integration Plugin for Wordpress
 
-###Features
+### Features
 
- 1. Custom post type for Bullhorn **Job Order** DTO
- 2. CRON job to sync the Bullhorn DTOs periodically
+ 1. Custom post type for Bullhorn **Job Order** REST object
+ 2. CRON job to sync the Bullhorn REST objects periodically
+ 3. Custom taxonomy for Bullhorn **Category** REST object
+ 4. Settings page for managing Bullhorn API credentials.
+ 5. Extensible - Our flexible system provides an interface class for Read/Write on all REST Entities (Candidates, Files, JobSubmissions, CorporateUsers, etc)
 
-###Future Features 
+Note: Ability for users to apply to jobs is supported by, but not included in this plugin. Due to the nature of form plugins (Gravity Forms, Contact Form 7, Formidable, etc) mapping the data provided by the user in the form to the candidate record is a very manual process. This plugin provides an Entity interface class that streamlines pushing data through our plugin into Bullhorn, however the use of this feature usually requires a developer.
 
- 1. Custom post type for Bullhorn **Candidate** DTO
- 2. Custom taxonomy for Bullhorn **Category** DTO
- 3. Ability for users to apply to jobs (public form for capturing **Candidate** data)
- 4. CRON job to push the **Candidate** DTO entries to the server periodically
+Examples may be able to be furnished for specific form plugins upon request.
 
-~Current Version:1.1~
+
+#### Installation
+
+ - Download the latest release, and place the `wp-bullhorn` folder in your `wp-plugins` directory.
+ - Activate the plugin.
+ - Enter your Bullhorn API credentials and Software License Key in the Bullhorn Settings Page.
+ - Go through the first-time Bullhorn setup (accepting the Bullhorn API Terms and Conditions)
+ - Install a system CRON w/i your hosting panel. Generally, the command will look something like this: `php /PATH/TO/wp-content/plugins/wp-bullhorn/cron.php`. The interval is up to you, but we suggest daily during non-peak hours.
+ 
+
+#### First Time Bullhorn Setup
+
+Note: Bullhorn has some weirdness with their API. You need to manually accept the terms of service for the api before using my plugin. Its a button push at the following link, you will need to get the credentials from your BH representative.
+
+    https://auth.bullhornstaffing.com/oauth/authorize?client_id=YOUR_CLIENT_ID&response_type=code&action=Login&username=YOUR_USERNAME&password=YOUR_PASSWORD
+
+If you run into any issues with the above link post in the Bullhorn forum. If you
+
